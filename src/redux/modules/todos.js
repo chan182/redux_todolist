@@ -11,7 +11,7 @@ const initialState = {
         {
             id: shortid.generate(),
             title: "제목1",
-            contents: "내용1",
+            contents: "내용122",
             isDone: false,
         },
         {
